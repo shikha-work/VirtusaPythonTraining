@@ -1,0 +1,4 @@
+CREATE TABLE "student" (
+	"name"	TEXT,
+	"roll num"	INTEGER
+)
